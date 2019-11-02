@@ -15,6 +15,15 @@
 		B72CAB9D236E24F5001D71C7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B72CAB9B236E24F5001D71C7 /* Main.storyboard */; };
 		B72CABA9236E24F5001D71C7 /* PreviewerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B72CABA8236E24F5001D71C7 /* PreviewerTests.swift */; };
 		B72CABB4236E24F6001D71C7 /* PreviewerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B72CABB3236E24F6001D71C7 /* PreviewerUITests.swift */; };
+		B72CABE8236E2743001D71C7 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B72CABE7236E2743001D71C7 /* Cocoa.framework */; };
+		B72CABEB236E2743001D71C7 /* SourceEditorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B72CABEA236E2743001D71C7 /* SourceEditorExtension.swift */; };
+		B72CABED236E2743001D71C7 /* SourceEditorCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = B72CABEC236E2743001D71C7 /* SourceEditorCommand.swift */; };
+		B72CABF2236E2743001D71C7 /* XcodeExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = B72CABE5236E2743001D71C7 /* XcodeExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		B72CAC02236E2787001D71C7 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = B72CAC01236E2787001D71C7 /* Helper.swift */; };
+		B72CAC03236E2787001D71C7 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = B72CAC01236E2787001D71C7 /* Helper.swift */; };
+		B72CAC04236E2787001D71C7 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = B72CAC01236E2787001D71C7 /* Helper.swift */; };
+		B72CAC05236E2787001D71C7 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = B72CAC01236E2787001D71C7 /* Helper.swift */; };
+		B75DBD5B236E2A4A000F232A /* XcodeKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B75DBD5A236E2A4A000F232A /* XcodeKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,7 +41,28 @@
 			remoteGlobalIDString = B72CAB8B236E24F3001D71C7;
 			remoteInfo = Previewer;
 		};
+		B72CABF0236E2743001D71C7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B72CAB84236E24F3001D71C7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B72CABE4236E2743001D71C7;
+			remoteInfo = XcodeExtension;
+		};
 /* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		B72CABF3236E2743001D71C7 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				B72CABF2236E2743001D71C7 /* XcodeExtension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		B72CAB8C236E24F3001D71C7 /* Previewer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Previewer.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -50,6 +80,14 @@
 		B72CABAF236E24F6001D71C7 /* PreviewerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PreviewerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B72CABB3236E24F6001D71C7 /* PreviewerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewerUITests.swift; sourceTree = "<group>"; };
 		B72CABB5236E24F6001D71C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B72CABE5236E2743001D71C7 /* XcodeExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = XcodeExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		B72CABE7236E2743001D71C7 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		B72CABEA236E2743001D71C7 /* SourceEditorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceEditorExtension.swift; sourceTree = "<group>"; };
+		B72CABEC236E2743001D71C7 /* SourceEditorCommand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceEditorCommand.swift; sourceTree = "<group>"; };
+		B72CABEE236E2743001D71C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B72CABEF236E2743001D71C7 /* XcodeExtension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = XcodeExtension.entitlements; sourceTree = "<group>"; };
+		B72CAC01236E2787001D71C7 /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		B75DBD5A236E2A4A000F232A /* XcodeKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XcodeKit.framework; path = Library/Frameworks/XcodeKit.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +112,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		B72CABE2236E2743001D71C7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B75DBD5B236E2A4A000F232A /* XcodeKit.framework in Frameworks */,
+				B72CABE8236E2743001D71C7 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -83,6 +130,8 @@
 				B72CAB8E236E24F3001D71C7 /* Previewer */,
 				B72CABA7236E24F5001D71C7 /* PreviewerTests */,
 				B72CABB2236E24F6001D71C7 /* PreviewerUITests */,
+				B72CABE9236E2743001D71C7 /* XcodeExtension */,
+				B72CABE6236E2743001D71C7 /* Frameworks */,
 				B72CAB8D236E24F3001D71C7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -93,6 +142,7 @@
 				B72CAB8C236E24F3001D71C7 /* Previewer.app */,
 				B72CABA4236E24F5001D71C7 /* PreviewerTests.xctest */,
 				B72CABAF236E24F6001D71C7 /* PreviewerUITests.xctest */,
+				B72CABE5236E2743001D71C7 /* XcodeExtension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -138,6 +188,27 @@
 			path = PreviewerUITests;
 			sourceTree = "<group>";
 		};
+		B72CABE6236E2743001D71C7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B75DBD5A236E2A4A000F232A /* XcodeKit.framework */,
+				B72CABE7236E2743001D71C7 /* Cocoa.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B72CABE9236E2743001D71C7 /* XcodeExtension */ = {
+			isa = PBXGroup;
+			children = (
+				B72CABEC236E2743001D71C7 /* SourceEditorCommand.swift */,
+				B72CABEA236E2743001D71C7 /* SourceEditorExtension.swift */,
+				B72CAC01236E2787001D71C7 /* Helper.swift */,
+				B72CABEF236E2743001D71C7 /* XcodeExtension.entitlements */,
+				B72CABEE236E2743001D71C7 /* Info.plist */,
+			);
+			path = XcodeExtension;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -148,10 +219,12 @@
 				B72CAB88236E24F3001D71C7 /* Sources */,
 				B72CAB89236E24F3001D71C7 /* Frameworks */,
 				B72CAB8A236E24F3001D71C7 /* Resources */,
+				B72CABF3236E2743001D71C7 /* Embed App Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				B72CABF1236E2743001D71C7 /* PBXTargetDependency */,
 			);
 			name = Previewer;
 			productName = Previewer;
@@ -194,6 +267,23 @@
 			productReference = B72CABAF236E24F6001D71C7 /* PreviewerUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
+		B72CABE4236E2743001D71C7 /* XcodeExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B72CABF6236E2743001D71C7 /* Build configuration list for PBXNativeTarget "XcodeExtension" */;
+			buildPhases = (
+				B72CABE1236E2743001D71C7 /* Sources */,
+				B72CABE2236E2743001D71C7 /* Frameworks */,
+				B72CABE3236E2743001D71C7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = XcodeExtension;
+			productName = XcodeExtension;
+			productReference = B72CABE5236E2743001D71C7 /* XcodeExtension.appex */;
+			productType = "com.apple.product-type.xcode-extension";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -215,6 +305,9 @@
 						CreatedOnToolsVersion = 11.1;
 						TestTargetID = B72CAB8B236E24F3001D71C7;
 					};
+					B72CABE4236E2743001D71C7 = {
+						CreatedOnToolsVersion = 11.1;
+					};
 				};
 			};
 			buildConfigurationList = B72CAB87236E24F3001D71C7 /* Build configuration list for PBXProject "Previewer" */;
@@ -233,6 +326,7 @@
 				B72CAB8B236E24F3001D71C7 /* Previewer */,
 				B72CABA3236E24F5001D71C7 /* PreviewerTests */,
 				B72CABAE236E24F6001D71C7 /* PreviewerUITests */,
+				B72CABE4236E2743001D71C7 /* XcodeExtension */,
 			);
 		};
 /* End PBXProject section */
@@ -262,6 +356,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		B72CABE3236E2743001D71C7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -272,6 +373,7 @@
 				B72CAB95236E24F3001D71C7 /* Previewer.xcdatamodeld in Sources */,
 				B72CAB92236E24F3001D71C7 /* ContentView.swift in Sources */,
 				B72CAB90236E24F3001D71C7 /* AppDelegate.swift in Sources */,
+				B72CAC02236E2787001D71C7 /* Helper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,6 +382,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B72CABA9236E24F5001D71C7 /* PreviewerTests.swift in Sources */,
+				B72CAC03236E2787001D71C7 /* Helper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,6 +391,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				B72CABB4236E24F6001D71C7 /* PreviewerUITests.swift in Sources */,
+				B72CAC04236E2787001D71C7 /* Helper.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B72CABE1236E2743001D71C7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B72CABEB236E2743001D71C7 /* SourceEditorExtension.swift in Sources */,
+				B72CAC05236E2787001D71C7 /* Helper.swift in Sources */,
+				B72CABED236E2743001D71C7 /* SourceEditorCommand.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -303,6 +417,11 @@
 			isa = PBXTargetDependency;
 			target = B72CAB8B236E24F3001D71C7 /* Previewer */;
 			targetProxy = B72CABB0236E24F6001D71C7 /* PBXContainerItemProxy */;
+		};
+		B72CABF1236E2743001D71C7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B72CABE4236E2743001D71C7 /* XcodeExtension */;
+			targetProxy = B72CABF0236E2743001D71C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -434,6 +553,7 @@
 		B72CABB9236E24F6001D71C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = Previewer/Previewer.entitlements;
 				CODE_SIGN_STYLE = Automatic;
@@ -448,7 +568,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.15;
-				PRODUCT_BUNDLE_IDENTIFIER = net.alhaider.Previewer;
+				PRODUCT_BUNDLE_IDENTIFIER = net.alhaider.previewer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -457,6 +577,7 @@
 		B72CABBA236E24F6001D71C7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = Previewer/Previewer.entitlements;
 				CODE_SIGN_STYLE = Automatic;
@@ -471,7 +592,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.15;
-				PRODUCT_BUNDLE_IDENTIFIER = net.alhaider.Previewer;
+				PRODUCT_BUNDLE_IDENTIFIER = net.alhaider.previewer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -561,6 +682,50 @@
 			};
 			name = Release;
 		};
+		B72CABF4236E2743001D71C7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = XcodeExtension/XcodeExtension.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = G69L3HCQBT;
+				ENABLE_HARDENED_RUNTIME = YES;
+				INFOPLIST_FILE = XcodeExtension/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				PRODUCT_BUNDLE_IDENTIFIER = net.alhaider.previewer.xcodeExtension;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		B72CABF5236E2743001D71C7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = XcodeExtension/XcodeExtension.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = G69L3HCQBT;
+				ENABLE_HARDENED_RUNTIME = YES;
+				INFOPLIST_FILE = XcodeExtension/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				PRODUCT_BUNDLE_IDENTIFIER = net.alhaider.previewer.xcodeExtension;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -596,6 +761,15 @@
 			buildConfigurations = (
 				B72CABBF236E24F6001D71C7 /* Debug */,
 				B72CABC0236E24F6001D71C7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B72CABF6236E2743001D71C7 /* Build configuration list for PBXNativeTarget "XcodeExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B72CABF4236E2743001D71C7 /* Debug */,
+				B72CABF5236E2743001D71C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
