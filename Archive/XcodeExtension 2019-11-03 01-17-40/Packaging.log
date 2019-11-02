@@ -1,0 +1,214 @@
+2019-11-02 22:17:27 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7ffbcfee44b0; archive(resolved)='<IDEArchive: 0x7ffbd12131e0>', distributionTask(resolved)='2', distributionDestination(resolved)='2', distributionMethod(resolved)='<IDEDistributionMethodMacAppStoreDistribution: 0x7ffbcfd62a40>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7ffbcfe96f70; teamID='G69L3HCQBT', teamName='Abdullah Alhaider', teamType='Individual', username='cs.alhaider@gmail.com', isFreeProvisioningTeam='0'>'>
+	Chain (13, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7ffbcfee44b0; archive = '<IDEArchive: 0x7ffbd12131e0>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7ffbcfd62a40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ffbcfe96f70; teamID='G69L3HCQBT', teamName='Abdullah Alhaider', teamType='Individual', username='cs.alhaider@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7ffbcfeedfc0; archive = '<IDEArchive: 0x7ffbd12131e0>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7ffbcfd62a40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ffbcfe96f70; teamID='G69L3HCQBT', teamName='Abdullah Alhaider', teamType='Individual', username='cs.alhaider@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ffbd15a0380; archive = '<IDEArchive: 0x7ffbd12131e0>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7ffbcfd62a40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ffbcfe96f70; teamID='G69L3HCQBT', teamName='Abdullah Alhaider', teamType='Individual', username='cs.alhaider@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ffbd1663520; archive = '<IDEArchive: 0x7ffbd12131e0>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7ffbcfd62a40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ffbcfe96f70; teamID='G69L3HCQBT', teamName='Abdullah Alhaider', teamType='Individual', username='cs.alhaider@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ffbd14e5600; archive = '<IDEArchive: 0x7ffbd12131e0>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7ffbcfd62a40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ffbcfe96f70; teamID='G69L3HCQBT', teamName='Abdullah Alhaider', teamType='Individual', username='cs.alhaider@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ffbd15a08f0; archive = '<IDEArchive: 0x7ffbd12131e0>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7ffbcfd62a40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ffbcfe96f70; teamID='G69L3HCQBT', teamName='Abdullah Alhaider', teamType='Individual', username='cs.alhaider@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ffbd118de10; archive = '<IDEArchive: 0x7ffbd12131e0>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7ffbcfd62a40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ffbcfe96f70; teamID='G69L3HCQBT', teamName='Abdullah Alhaider', teamType='Individual', username='cs.alhaider@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ffbd1642c80; archive = '<IDEArchive: 0x7ffbd12131e0>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7ffbcfd62a40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ffbcfe96f70; teamID='G69L3HCQBT', teamName='Abdullah Alhaider', teamType='Individual', username='cs.alhaider@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ffbd1586f90; archive = '<IDEArchive: 0x7ffbd12131e0>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7ffbcfd62a40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ffbcfe96f70; teamID='G69L3HCQBT', teamName='Abdullah Alhaider', teamType='Individual', username='cs.alhaider@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ffbd161c000; archive = '<IDEArchive: 0x7ffbd12131e0>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7ffbcfd62a40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ffbcfe96f70; teamID='G69L3HCQBT', teamName='Abdullah Alhaider', teamType='Individual', username='cs.alhaider@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ffbd1580b70; archive = '<IDEArchive: 0x7ffbd12131e0>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7ffbcfd62a40>', team='(null)'>
+	<IDEDistributionContext: 0x7ffbd14c7780; archive = '<IDEArchive: 0x7ffbd12131e0>', distributionMethod='<IDEDistributionMethodMacAppStoreDistribution: 0x7ffbcfd62a40>', team='(null)'>
+	<IDEDistributionContext: 0x7ffbcffa3920; archive = '<IDEArchive: 0x7ffbd12131e0>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7ffbcfee44b0>
+2019-11-02 22:17:27 +0000  Processing step: IDEDistributionCreateDestRootStep
+2019-11-02 22:17:27 +0000  Processing step: IDEDistributionCopyItemStep
+2019-11-02 22:17:27 +0000  Running /usr/bin/ditto '-V' '/Users/hfhy/Library/Developer/Xcode/Archives/2019-11-03/XcodeExtension 11-3-19, 1.17 AM.xcarchive/Products/Applications/Previewer.app' '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Root/Applications/Previewer.app'
+2019-11-02 22:17:27 +0000  >>> Copying /Users/hfhy/Library/Developer/Xcode/Archives/2019-11-03/XcodeExtension 11-3-19, 1.17 AM.xcarchive/Products/Applications/Previewer.app 
+2019-11-02 22:17:27 +0000  copying file ./Contents/_CodeSignature/CodeResources ... 
+2019-11-02 22:17:27 +0000  3985 bytes for ./Contents/_CodeSignature/CodeResources
+2019-11-02 22:17:27 +0000  copying file ./Contents/MacOS/Previewer ... 
+2019-11-02 22:17:27 +0000  53424 bytes for ./Contents/MacOS/Previewer
+2019-11-02 22:17:27 +0000  copying file ./Contents/PlugIns/XcodeExtension.appex/Contents/_CodeSignature/CodeResources ... 
+2019-11-02 22:17:27 +0000  2200 bytes for ./Contents/PlugIns/XcodeExtension.appex/Contents/_CodeSignature/CodeResources
+2019-11-02 22:17:27 +0000  copying file ./Contents/PlugIns/XcodeExtension.appex/Contents/MacOS/XcodeExtension ... 
+2019-11-02 22:17:27 +0000  70176 bytes for ./Contents/PlugIns/XcodeExtension.appex/Contents/MacOS/XcodeExtension
+2019-11-02 22:17:27 +0000  copying file ./Contents/PlugIns/XcodeExtension.appex/Contents/Info.plist ... 
+2019-11-02 22:17:27 +0000  2527 bytes for ./Contents/PlugIns/XcodeExtension.appex/Contents/Info.plist
+2019-11-02 22:17:27 +0000  copying file ./Contents/Resources/Previewer.momd/Previewer.omo ... 
+2019-11-02 22:17:27 +0000  704 bytes for ./Contents/Resources/Previewer.momd/Previewer.omo
+copying file ./Contents/Resources/Previewer.momd/VersionInfo.plist ... 
+2019-11-02 22:17:27 +0000  155 bytes for ./Contents/Resources/Previewer.momd/VersionInfo.plist
+2019-11-02 22:17:27 +0000  copying file ./Contents/Resources/Previewer.momd/Previewer.mom ... 
+2019-11-02 22:17:27 +0000  489 bytes for ./Contents/Resources/Previewer.momd/Previewer.mom
+2019-11-02 22:17:27 +0000  copying file ./Contents/Resources/Base.lproj/Main.storyboardc/MainMenu.nib ... 
+2019-11-02 22:17:27 +0000  36226 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/MainMenu.nib
+copying file ./Contents/Resources/Base.lproj/Main.storyboardc/Info.plist ... 
+2019-11-02 22:17:27 +0000  163 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/Info.plist
+2019-11-02 22:17:27 +0000  copying file ./Contents/Info.plist ... 
+2019-11-02 22:17:27 +0000  1657 bytes for ./Contents/Info.plist
+2019-11-02 22:17:27 +0000  copying file ./Contents/PkgInfo ... 
+2019-11-02 22:17:27 +0000  8 bytes for ./Contents/PkgInfo
+2019-11-02 22:17:27 +0000  /usr/bin/ditto exited with 0
+2019-11-02 22:17:27 +0000  Processing step: IDEDistributionEmbedProfileStep
+2019-11-02 22:17:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7ffbd158acc0; bundleID='net.alhaider.previewer.xcodeExtension', path='<DVTFilePath:0x7ffbd118cf20:'/Users/hfhy/Library/Developer/Xcode/Archives/2019-11-03/XcodeExtension 11-3-19, 1.17 AM.xcarchive/Products/Applications/Previewer.app/Contents/PlugIns/XcodeExtension.appex'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ffbd15923e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ffbd159c6c0; name='Apple Development: Abdullah Alhaider (7JEEBG8S88)', hash='A9C3D8F529A95D437E4EE8287A8532AC06595371', serialNumber='3BB27DD01BCA7604', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2019-10-26 13:17:51 +0000''>', entitlements='{
+    "com.apple.security.app-sandbox" = 1;
+}', teamID='G69L3HCQBT', identifier='net.alhaider.previewer.xcodeExtension', executablePath='<DVTFilePath:0x7ffbd1191d80:'/Users/hfhy/Library/Developer/Xcode/Archives/2019-11-03/XcodeExtension 11-3-19, 1.17 AM.xcarchive/Products/Applications/Previewer.app/Contents/PlugIns/XcodeExtension.appex/Contents/MacOS/XcodeExtension'>', hardenedRuntime='1'>'>
+2019-11-02 22:17:27 +0000  Skipping profile for item: <IDEDistributionItem: 0x7ffbd11941a0; bundleID='net.alhaider.previewer', path='<DVTFilePath:0x7ffbcffa7850:'/Users/hfhy/Library/Developer/Xcode/Archives/2019-11-03/XcodeExtension 11-3-19, 1.17 AM.xcarchive/Products/Applications/Previewer.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ffbd1577c20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ffbd157d920; name='Apple Development: Abdullah Alhaider (7JEEBG8S88)', hash='A9C3D8F529A95D437E4EE8287A8532AC06595371', serialNumber='3BB27DD01BCA7604', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2019-10-26 13:17:51 +0000''>', entitlements='{
+    "com.apple.security.app-sandbox" = 1;
+    "com.apple.security.files.user-selected.read-only" = 1;
+}', teamID='G69L3HCQBT', identifier='net.alhaider.previewer', executablePath='<DVTFilePath:0x7ffbd1233e90:'/Users/hfhy/Library/Developer/Xcode/Archives/2019-11-03/XcodeExtension 11-3-19, 1.17 AM.xcarchive/Products/Applications/Previewer.app/Contents/MacOS/Previewer'>', hardenedRuntime='1'>'>
+2019-11-02 22:17:27 +0000  Processing step: IDEDistributionItemRemovalStep
+2019-11-02 22:17:27 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2019-11-02 22:17:27 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2019-11-02 22:17:27 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2019-11-02 22:17:27 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2019-11-02 22:17:27 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2019-11-02 22:17:27 +0000  Processing step: IDEDistributionSymbolsStep
+2019-11-02 22:17:27 +0000  Processing symbols for XcodeExtension.appex
+2019-11-02 22:17:27 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Root/Applications/Previewer.app/Contents/PlugIns/XcodeExtension.appex' '--link-dest' '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Root/Applications/Previewer.app/Contents/PlugIns' '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll'
+2019-11-02 22:17:27 +0000  building file list ... 
+2019-11-02 22:17:27 +0000   0 files...2019-11-02 22:17:27 +0000  7 files to consider
+2019-11-02 22:17:27 +0000  XcodeExtension.appex/
+2019-11-02 22:17:27 +0000  XcodeExtension.appex/Contents/
+2019-11-02 22:17:27 +0000  XcodeExtension.appex/Contents/MacOS/
+XcodeExtension.appex/Contents/_CodeSignature/
+2019-11-02 22:17:27 +0000  
+sent 258 bytes  received 44 bytes  604.00 bytes/sec
+total size is 73.15K  speedup is 248.02
+2019-11-02 22:17:27 +0000  /usr/bin/rsync exited with 0
+2019-11-02 22:17:27 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/hfhy/Library/Developer/Xcode/Archives/2019-11-03/XcodeExtension 11-3-19, 1.17 AM.xcarchive/dSYMs/' '--link-dest' '/Users/hfhy/Library/Developer/Xcode/Archives/2019-11-03/XcodeExtension 11-3-19, 1.17 AM.xcarchive/dSYMs/' '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll'
+2019-11-02 22:17:27 +0000  building file list ... 
+2019-11-02 22:17:27 +0000   0 files...2019-11-02 22:17:27 +0000  13 files to consider
+2019-11-02 22:17:27 +0000  ./
+2019-11-02 22:17:27 +0000  Previewer.app.dSYM/
+Previewer.app.dSYM/Contents/
+Previewer.app.dSYM/Contents/Resources/
+Previewer.app.dSYM/Contents/Resources/DWARF/
+2019-11-02 22:17:27 +0000  XcodeExtension.appex.dSYM/
+XcodeExtension.appex.dSYM/Contents/
+XcodeExtension.appex.dSYM/Contents/Resources/
+XcodeExtension.appex.dSYM/Contents/Resources/DWARF/
+2019-11-02 22:17:27 +0000  
+2019-11-02 22:17:27 +0000  sent 461 bytes  received 74 bytes  1.04K bytes/sec
+total size is 4.11M  speedup is 8047.27
+2019-11-02 22:17:27 +0000  /usr/bin/rsync exited with 0
+2019-11-02 22:17:27 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/symbols '-noTextInSOD' '-noDaemon' '-arch' 'all' '-symbolsPackageDir' '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Symbols' '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/XcodeExtension.appex.dSYM/Contents/Resources/Dwarf/XcodeExtension'
+2019-11-02 22:17:27 +0000  /var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/XcodeExtension.appex.dSYM/Contents/Resources/Dwarf/XcodeExtension [x86_64, 0.028940 seconds]:
+2019-11-02 22:17:27 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with 0
+2019-11-02 22:17:27 +0000  Processing symbols for Previewer.app
+2019-11-02 22:17:27 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Root/Applications/Previewer.app' '--link-dest' '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Root/Applications' '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll'
+2019-11-02 22:17:27 +0000  building file list ... 
+2019-11-02 22:17:27 +0000   0 files...2019-11-02 22:17:27 +0000  25 files to consider
+2019-11-02 22:17:27 +0000  Previewer.app/
+2019-11-02 22:17:27 +0000  Previewer.app/Contents/
+Previewer.app/Contents/MacOS/
+Previewer.app/Contents/PlugIns/
+Previewer.app/Contents/PlugIns/XcodeExtension.appex/
+Previewer.app/Contents/PlugIns/XcodeExtension.appex/Contents/
+Previewer.app/Contents/PlugIns/XcodeExtension.appex/Contents/MacOS/
+2019-11-02 22:17:27 +0000  Previewer.app/Contents/PlugIns/XcodeExtension.appex/Contents/_CodeSignature/
+Previewer.app/Contents/Resources/
+Previewer.app/Contents/Resources/Base.lproj/
+Previewer.app/Contents/Resources/Base.lproj/Main.storyboardc/
+Previewer.app/Contents/Resources/Previewer.momd/
+Previewer.app/Contents/_CodeSignature/
+2019-11-02 22:17:27 +0000  
+2019-11-02 22:17:27 +0000  sent 780 bytes  received 98 bytes  1.71K bytes/sec
+total size is 167.69K  speedup is 195.57
+2019-11-02 22:17:27 +0000  /usr/bin/rsync exited with 0
+2019-11-02 22:17:27 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/hfhy/Library/Developer/Xcode/Archives/2019-11-03/XcodeExtension 11-3-19, 1.17 AM.xcarchive/dSYMs/' '--link-dest' '/Users/hfhy/Library/Developer/Xcode/Archives/2019-11-03/XcodeExtension 11-3-19, 1.17 AM.xcarchive/dSYMs/' '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll'
+2019-11-02 22:17:27 +0000  building file list ... 
+2019-11-02 22:17:27 +0000   0 files...2019-11-02 22:17:27 +0000  13 files to consider
+2019-11-02 22:17:27 +0000  ./
+2019-11-02 22:17:27 +0000  Previewer.app.dSYM/
+Previewer.app.dSYM/Contents/
+Previewer.app.dSYM/Contents/Resources/
+Previewer.app.dSYM/Contents/Resources/DWARF/
+XcodeExtension.appex.dSYM/
+XcodeExtension.appex.dSYM/Contents/
+XcodeExtension.appex.dSYM/Contents/Resources/
+XcodeExtension.appex.dSYM/Contents/Resources/DWARF/
+2019-11-02 22:17:27 +0000  
+2019-11-02 22:17:27 +0000  sent 485 bytes  received 98 bytes  1.14K bytes/sec
+total size is 4.11M  speedup is 7384.72
+2019-11-02 22:17:27 +0000  /usr/bin/rsync exited with 0
+2019-11-02 22:17:27 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/symbols '-noTextInSOD' '-noDaemon' '-arch' 'all' '-symbolsPackageDir' '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Symbols' '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Previewer.app.dSYM/Contents/Resources/Dwarf/Previewer'
+2019-11-02 22:17:27 +0000  /var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Previewer.app.dSYM/Contents/Resources/Dwarf/Previewer [x86_64, 0.034210 seconds]:
+2019-11-02 22:17:27 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with 0
+2019-11-02 22:17:27 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2019-11-02 22:17:27 +0000  Processing step: IDEDistributionAppThinningStep
+2019-11-02 22:17:27 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2019-11-02 22:17:27 +0000  Processing step: IDEDistributionArchThinningStep
+2019-11-02 22:17:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Root/Applications/Previewer.app/Contents/PlugIns/XcodeExtension.appex/Contents/MacOS/XcodeExtension' '-verify_arch' 'arm64e'
+2019-11-02 22:17:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-11-02 22:17:27 +0000  Skipping architecture thinning for item "XcodeExtension" because arch "arm64e" wasn't found
+2019-11-02 22:17:27 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Root/Applications/Previewer.app/Contents/MacOS/Previewer' '-verify_arch' 'arm64e'
+2019-11-02 22:17:27 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-11-02 22:17:27 +0000  Skipping architecture thinning for item "Previewer" because arch "arm64e" wasn't found
+2019-11-02 22:17:27 +0000  Processing step: IDEDistributionODRStep
+2019-11-02 22:17:27 +0000  Processing step: IDEDistributionStripXattrsStep
+2019-11-02 22:17:27 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7ffbd158acc0; bundleID='net.alhaider.previewer.xcodeExtension', path='<DVTFilePath:0x7ffbd118cf20:'/Users/hfhy/Library/Developer/Xcode/Archives/2019-11-03/XcodeExtension 11-3-19, 1.17 AM.xcarchive/Products/Applications/Previewer.app/Contents/PlugIns/XcodeExtension.appex'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ffbd15923e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ffbd15b8470; name='Apple Development: Abdullah Alhaider (7JEEBG8S88)', hash='A9C3D8F529A95D437E4EE8287A8532AC06595371', serialNumber='3BB27DD01BCA7604', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2019-10-26 13:17:51 +0000''>', entitlements='{
+    "com.apple.security.app-sandbox" = 1;
+}', teamID='G69L3HCQBT', identifier='net.alhaider.previewer.xcodeExtension', executablePath='<DVTFilePath:0x7ffbd1191d80:'/Users/hfhy/Library/Developer/Xcode/Archives/2019-11-03/XcodeExtension 11-3-19, 1.17 AM.xcarchive/Products/Applications/Previewer.app/Contents/PlugIns/XcodeExtension.appex/Contents/MacOS/XcodeExtension'>', hardenedRuntime='1'>'>
+2019-11-02 22:17:27 +0000  Running /usr/bin/xattr '-crs' '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Root/Applications/Previewer.app'
+2019-11-02 22:17:28 +0000  /usr/bin/xattr exited with 0
+2019-11-02 22:17:28 +0000  Processing step: IDEDistributionCodesignStep
+2019-11-02 22:17:28 +0000  Entitlements for <IDEDistributionItem: 0x7ffbd158acc0; bundleID='net.alhaider.previewer.xcodeExtension', path='<DVTFilePath:0x7ffbd118cf20:'/Users/hfhy/Library/Developer/Xcode/Archives/2019-11-03/XcodeExtension 11-3-19, 1.17 AM.xcarchive/Products/Applications/Previewer.app/Contents/PlugIns/XcodeExtension.appex'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ffbd15923e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ffbcfee6590; name='Apple Development: Abdullah Alhaider (7JEEBG8S88)', hash='A9C3D8F529A95D437E4EE8287A8532AC06595371', serialNumber='3BB27DD01BCA7604', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2019-10-26 13:17:51 +0000''>', entitlements='{
+    "com.apple.security.app-sandbox" = 1;
+}', teamID='G69L3HCQBT', identifier='net.alhaider.previewer.xcodeExtension', executablePath='<DVTFilePath:0x7ffbd1191d80:'/Users/hfhy/Library/Developer/Xcode/Archives/2019-11-03/XcodeExtension 11-3-19, 1.17 AM.xcarchive/Products/Applications/Previewer.app/Contents/PlugIns/XcodeExtension.appex/Contents/MacOS/XcodeExtension'>', hardenedRuntime='1'>'>: {
+    "com.apple.security.app-sandbox" = 1;
+}
+2019-11-02 22:17:28 +0000  Writing entitlements for <IDEDistributionItem: 0x7ffbd158acc0; bundleID='net.alhaider.previewer.xcodeExtension', path='<DVTFilePath:0x7ffbd118cf20:'/Users/hfhy/Library/Developer/Xcode/Archives/2019-11-03/XcodeExtension 11-3-19, 1.17 AM.xcarchive/Products/Applications/Previewer.app/Contents/PlugIns/XcodeExtension.appex'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ffbd15923e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ffbd1380e50; name='Apple Development: Abdullah Alhaider (7JEEBG8S88)', hash='A9C3D8F529A95D437E4EE8287A8532AC06595371', serialNumber='3BB27DD01BCA7604', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2019-10-26 13:17:51 +0000''>', entitlements='{
+    "com.apple.security.app-sandbox" = 1;
+}', teamID='G69L3HCQBT', identifier='net.alhaider.previewer.xcodeExtension', executablePath='<DVTFilePath:0x7ffbd1191d80:'/Users/hfhy/Library/Developer/Xcode/Archives/2019-11-03/XcodeExtension 11-3-19, 1.17 AM.xcarchive/Products/Applications/Previewer.app/Contents/PlugIns/XcodeExtension.appex/Contents/MacOS/XcodeExtension'>', hardenedRuntime='1'>'> to: /var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/entitlements~~~Zo1gGb
+2019-11-02 22:17:28 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CE2BE5F3ED5637FAEF1260FE1700CC1EC75AEAEE' '--entitlements' '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/entitlements~~~Zo1gGb' '--preserve-metadata=identifier,flags,runtime' '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Root/Applications/Previewer.app/Contents/PlugIns/XcodeExtension.appex'
+2019-11-02 22:17:28 +0000  /var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Root/Applications/Previewer.app/Contents/PlugIns/XcodeExtension.appex: replacing existing signature
+2019-11-02 22:17:28 +0000  /var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Root/Applications/Previewer.app/Contents/PlugIns/XcodeExtension.appex: signed bundle with Mach-O thin (x86_64) [net.alhaider.previewer.xcodeExtension]
+2019-11-02 22:17:28 +0000  /usr/bin/codesign exited with 0
+2019-11-02 22:17:28 +0000  Entitlements for <IDEDistributionItem: 0x7ffbd11941a0; bundleID='net.alhaider.previewer', path='<DVTFilePath:0x7ffbcffa7850:'/Users/hfhy/Library/Developer/Xcode/Archives/2019-11-03/XcodeExtension 11-3-19, 1.17 AM.xcarchive/Products/Applications/Previewer.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ffbd1577c20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ffbcfff0770; name='Apple Development: Abdullah Alhaider (7JEEBG8S88)', hash='A9C3D8F529A95D437E4EE8287A8532AC06595371', serialNumber='3BB27DD01BCA7604', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2019-10-26 13:17:51 +0000''>', entitlements='{
+    "com.apple.security.app-sandbox" = 1;
+    "com.apple.security.files.user-selected.read-only" = 1;
+}', teamID='G69L3HCQBT', identifier='net.alhaider.previewer', executablePath='<DVTFilePath:0x7ffbd1233e90:'/Users/hfhy/Library/Developer/Xcode/Archives/2019-11-03/XcodeExtension 11-3-19, 1.17 AM.xcarchive/Products/Applications/Previewer.app/Contents/MacOS/Previewer'>', hardenedRuntime='1'>'>: {
+    "com.apple.security.app-sandbox" = 1;
+    "com.apple.security.files.user-selected.read-only" = 1;
+}
+2019-11-02 22:17:28 +0000  Writing entitlements for <IDEDistributionItem: 0x7ffbd11941a0; bundleID='net.alhaider.previewer', path='<DVTFilePath:0x7ffbcffa7850:'/Users/hfhy/Library/Developer/Xcode/Archives/2019-11-03/XcodeExtension 11-3-19, 1.17 AM.xcarchive/Products/Applications/Previewer.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ffbd1577c20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ffbcfec8fa0; name='Apple Development: Abdullah Alhaider (7JEEBG8S88)', hash='A9C3D8F529A95D437E4EE8287A8532AC06595371', serialNumber='3BB27DD01BCA7604', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2019-10-26 13:17:51 +0000''>', entitlements='{
+    "com.apple.security.app-sandbox" = 1;
+    "com.apple.security.files.user-selected.read-only" = 1;
+}', teamID='G69L3HCQBT', identifier='net.alhaider.previewer', executablePath='<DVTFilePath:0x7ffbd1233e90:'/Users/hfhy/Library/Developer/Xcode/Archives/2019-11-03/XcodeExtension 11-3-19, 1.17 AM.xcarchive/Products/Applications/Previewer.app/Contents/MacOS/Previewer'>', hardenedRuntime='1'>'> to: /var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/entitlements~~~FtcTKw
+2019-11-02 22:17:28 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CE2BE5F3ED5637FAEF1260FE1700CC1EC75AEAEE' '--entitlements' '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/entitlements~~~FtcTKw' '--preserve-metadata=identifier,flags,runtime' '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Root/Applications/Previewer.app'
+2019-11-02 22:17:28 +0000  /var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Root/Applications/Previewer.app: replacing existing signature
+2019-11-02 22:17:28 +0000  /var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Root/Applications/Previewer.app: signed app bundle with Mach-O thin (x86_64) [net.alhaider.previewer]
+2019-11-02 22:17:28 +0000  /usr/bin/codesign exited with 0
+2019-11-02 22:17:28 +0000  Processing step: IDEDistributionZipODRItemStep
+2019-11-02 22:17:28 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-11-02 22:17:28 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-11-02 22:17:28 +0000  Processing step: IDEDistributionCreatePKGStep
+2019-11-02 22:17:28 +0000  Running /usr/bin/productbuild '--sign' '3rd Party Mac Developer Installer: Abdullah Alhaider (G69L3HCQBT)' '--symbolication' '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Symbols' '--component' '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Root/Applications/Previewer.app' '/Applications' '/var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Packages/XcodeExtension.pkg'
+2019-11-02 22:17:28 +0000  productbuild: Adding component at /var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Root/Applications/Previewer.app
+productbuild: Signing product with identity "3rd Party Mac Developer Installer: Abdullah Alhaider (G69L3HCQBT)" from keychain /Users/hfhy/Library/Keychains/login.keychain-db
+productbuild: Adding certificate "Apple Worldwide Developer Relations Certification Authority"
+productbuild: Adding certificate "Apple Root CA"
+productbuild: Wrote product to /var/folders/95/4tkqw23d7fz8fwnvmw9dm1yh0000gn/T/XcodeDistPipeline.~~~4Yxyll/Packages/XcodeExtension.pkg
+productbuild: Supported OS versions: [10.15, )
+2019-11-02 22:17:28 +0000  /usr/bin/productbuild exited with 0
+2019-11-02 22:17:28 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2019-11-02 22:17:28 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2019-11-02 22:17:28 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2019-11-02 22:17:28 +0000  Processing step: IDEDistributionCreateManifestStep
+2019-11-02 22:17:28 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
